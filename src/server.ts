@@ -34,4 +34,4 @@ app.post('/subscription', {
 
 app.listen({port: 4040}).then(() => {
     console.log("Http server running")
-})
+});
